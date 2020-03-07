@@ -1,0 +1,11 @@
+{
+  "env": {
+    "PORT": 3000,
+    "BASE": "localhost:3000",
+    "JWT_KEY": "",
+    "IMG_URL": "/api/v1/images",
+    "GEMAIL": "",
+    "G_PSW": "",
+    "E_CONFIRM_ROUTE": "/api/v1/confirmation"
+  }
+}
